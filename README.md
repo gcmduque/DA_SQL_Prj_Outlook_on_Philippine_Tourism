@@ -44,6 +44,8 @@ F. Tableau (Final)
 - 3. Resolving previous concerns
 - 4. Answering the guide questions
 
+Click here for the [Project Documentation](https://docs.google.com/spreadsheets/d/1lSygxO0qv4ZjTrAea-bsbdSpEFVRgiygHF9ioZUMcaA/edit?usp=sharing) to see the complete details.
+
 ### Dashboard
 
 A. Initial: [[Tableau Link]](https://public.tableau.com/views/ALookatFilipinosGoingAbroadVS_ForeignersGoingtothePhilippines/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
