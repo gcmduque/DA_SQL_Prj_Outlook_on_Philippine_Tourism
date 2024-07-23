@@ -89,6 +89,8 @@ SQL Query: Contains the SQL query used for cleaning and data exploratory.
 
 SQL Query Output Data: Contains the output data.
 
+Dataset: Contains the tourism data document acquired from the [Department of Tourism of the Philippines](http://tourism.gov.ph/tourism_dem_sup_pub.aspx).
+
 [[Files Link]](https://drive.google.com/drive/folders/1s8uzQq3bR_D9iZpW6AC80DAyTVRlilS1?usp=sharing)
 
 
